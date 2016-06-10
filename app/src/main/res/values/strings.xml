@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Othello Game</string>
+    <string name="action_settings">Settings</string>
+    <string name="player1_tv">Player 1 name :</string>
+    <string name="player2_tv">Player 2 name :</string>
+    <string name="submit">Play!!!!</string>
+    <string name="title_activity_game_board">GameBoardActivity</string>
+</resources>
